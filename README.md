@@ -1,2 +1,2 @@
-# cloaked
-anonymous social media app
+# 🕵️ cloaked
+social media - anonymously
